@@ -1,0 +1,8 @@
+Leonardo: A lightweight SVG editor based on Raphael.
+
+Deps:
+Raphael
+leo.css
+image files in /lib or create your own
+
+
